@@ -1,7 +1,6 @@
 <svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1050 600">
 	<title>viz</title>
 	<style>
-		@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible)
 		tspan { white-space:pre } 
 		.s0 { fill: #000000 } 
 		.s1 { mix-blend-mode: multiply;fill: none;stroke: #189af6;stroke-width: 9.1 } 
