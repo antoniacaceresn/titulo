@@ -5,6 +5,7 @@
         g#viz {
             font-size: 14px;
             fill: #000000;
+            font-family: "Atkinson Hyperlegible", sans-serif;
             font-family: Helvetica, Arial, sans-serif;
         }
 
