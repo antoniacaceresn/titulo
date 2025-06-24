@@ -5,8 +5,8 @@
     --acentoBajo: #E64A19;
     --gris: #546E7A;
     --bs-font-sans-serif: "Atkinson Hyperlegible", sans-serif;
-    --bs-link-color-rgb: 255, 84, 50;
-    --bs-link-hover-color-rgb: 57, 63, 1499;
+    --bs-link-color-rgb: 57, 63, 1499;
+    --bs-link-hover-color-rgb: 255, 84, 50;
 }
 
 .text-bg-primary{
