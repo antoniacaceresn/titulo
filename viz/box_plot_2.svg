@@ -12,12 +12,12 @@
         .t1 {
             font-size: 11px;
             fill: #000000;
-            font-family: "Atkinson Hyperlegible", sans-serif;;
+            font-family: "Atkinson Hyperlegible", sans-serif;
         }
         .t2 {
             font-size: 11px;
             fill: #000000;
-            font-family: "Atkinson Hyperlegible", sans-serif;;
+            font-family: "Atkinson Hyperlegible", sans-serif;
         }
         .s3 {
             fill: #000000;
